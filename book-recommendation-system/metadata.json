@@ -1,0 +1,6 @@
+{
+  "name": "Book Recommendation System",
+  "description": "Frontend Book Recommendation & Reading Preference Analytics Dashboard with collaborative filtering, cosine similarity, user & book exploration, offline evaluation, and PDF reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

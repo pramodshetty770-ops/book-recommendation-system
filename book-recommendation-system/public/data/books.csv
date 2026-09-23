@@ -1,0 +1,51 @@
+book_id,title,author,genre,publication_year,pages,language
+B101,To Kill a Mockingbird,Harper Lee,Classic Fiction,1960,281,English
+B102,1984,George Orwell,Dystopian,1949,328,English
+B103,The Great Gatsby,F. Scott Fitzgerald,Classic Fiction,1925,180,English
+B104,Pride and Prejudice,Jane Austen,Romance,1813,279,English
+B105,The Catcher in the Rye,J.D. Salinger,Classic Fiction,1951,277,English
+B106,The Hobbit,J.R.R. Tolkien,Fantasy,1937,310,English
+B107,Fahrenheit 451,Ray Bradbury,Dystopian,1953,249,English
+B108,Jane Eyre,Charlotte Brontë,Romance,1847,532,English
+B109,Animal Farm,George Orwell,Political Satire,1945,141,English
+B110,Brave New World,Aldous Huxley,Dystopian,1932,288,English
+B111,The Lord of the Rings: Fellowship,J.R.R. Tolkien,Fantasy,1954,423,English
+B112,The Lord of the Rings: Two Towers,J.R.R. Tolkien,Fantasy,1954,352,English
+B113,The Lord of the Rings: Return of the King,J.R.R. Tolkien,Fantasy,1955,416,English
+B114,Dune,Frank Herbert,Sci-Fi,1965,412,English
+B115,Foundation,Isaac Asimov,Sci-Fi,1951,255,English
+B116,Neuromancer,William Gibson,Sci-Fi,1984,271,English
+B117,Do Androids Dream of Electric Sheep?,Philip K. Dick,Sci-Fi,1968,210,English
+B118,The Name of the Wind,Patrick Rothfuss,Fantasy,2007,662,English
+B119,A Game of Thrones,George R.R. Martin,Fantasy,1996,694,English
+B120,A Clash of Kings,George R.R. Martin,Fantasy,1998,768,English
+B121,The Way of Kings,Brandon Sanderson,Fantasy,2010,1007,English
+B122,Mistborn: The Final Empire,Brandon Sanderson,Fantasy,2006,541,English
+B123,The Da Vinci Code,Dan Brown,Mystery / Thriller,2003,454,English
+B124,Angels & Demons,Dan Brown,Mystery / Thriller,2000,616,English
+B125,Gone Girl,Gillian Flynn,Mystery / Thriller,2012,432,English
+B126,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery / Thriller,2005,465,English
+B127,And Then There Were None,Agatha Christie,Mystery / Thriller,1939,272,English
+B128,The Murder of Roger Ackroyd,Agatha Christie,Mystery / Thriller,1926,312,English
+B129,The Hound of the Baskervilles,Arthur Conan Doyle,Mystery / Thriller,1902,256,English
+B130,Sapiens: A Brief History of Humankind,Yuval Noah Harari,Non-Fiction,2011,443,English
+B131,Educated,Tara Westover,Biography / Memoir,2018,334,English
+B132,Becoming,Michelle Obama,Biography / Memoir,2018,426,English
+B133,Thinking Fast and Slow,Daniel Kahneman,Non-Fiction,2011,499,English
+B134,Atomic Habits,James Clear,Non-Fiction,2018,320,English
+B135,Man's Search for Meaning,Viktor E. Frankl,Philosophy,1946,165,English
+B136,Meditations,Marcus Aurelius,Philosophy,180,254,English
+B137,The Alchemist,Paulo Coelho,Philosophy,1988,208,English
+B138,The Book Thief,Markus Zusak,Historical Fiction,2005,552,English
+B139,All the Light We Cannot See,Anthony Doerr,Historical Fiction,2014,531,English
+B140,The Kite Runner,Khaled Hosseini,Historical Fiction,2003,371,English
+B141,A Thousand Splendid Suns,Khaled Hosseini,Historical Fiction,2007,384,English
+B142,Wuthering Heights,Emily Brontë,Romance,1847,464,English
+B143,Emma,Jane Austen,Romance,1815,474,English
+B144,Sense and Sensibility,Jane Austen,Romance,1811,409,English
+B145,The Silent Patient,Alex Michaelides,Mystery / Thriller,2019,336,English
+B146,The Martian,Andy Weir,Sci-Fi,2011,369,English
+B147,Project Hail Mary,Andy Weir,Sci-Fi,2021,496,English
+B148,Hyperion,Dan Simmons,Sci-Fi,1989,482,English
+B149,Crime and Punishment,Fyodor Dostoevsky,Classic Fiction,1866,671,English
+B150,The Brothers Karamazov,Fyodor Dostoevsky,Classic Fiction,1880,796,English
